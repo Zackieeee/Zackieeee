@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zackieeee
 - 👀 I’m interested in Environmental Science and Computer Science!
-- 🌱 I’m currently learning Python and SQL ^^
+- 🌱 I’m currently learning Python and mySQL ^^
 - 💞️ I’m looking to collaborate on any python project for free!
 - 📫 How to reach me ? email me at zacharytang28@gmail.com
 - 😄 Pronouns: Singaporean
